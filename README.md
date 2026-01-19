@@ -11,6 +11,20 @@ Children’s speech presents unique challenges such as high pitch variability, p
 
 - Augmented audio samples are saved and listed for downstream ASR training.
 
+## Tools & Libraries Used
+
+- Python
+
+- Librosa – audio loading and signal processing
+
+- SpeechBrain – ASR-focused augmentation utilities
+
+- nlpaug – audio data augmentation
+
+- NumPy
+
+- SoundFile
+
 ## Techniques Implemented
 
 ### 1. Time Shifting
