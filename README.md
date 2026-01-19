@@ -55,6 +55,29 @@ Randomly removes certain frequency bands.
 
 Simulates channel distortion and environmental effects.
 
+.
+├── Speechbrain.ipynb
+│   └── Audio augmentation using SpeechBrain (time shift, frequency drop, masking)
+│
+├── nlpaug.ipynb
+│   └── Audio augmentation using nlpaug (crop, loudness, waveform modifications)
+│
+├── Kaggle augmentation.ipynb
+│   └── Experimental augmentation workflows and visualization
+│
+├── fabm2all_timeshift.wav
+│   └── Example time-shifted audio sample
+│
+├── fabm2ag1_loudaugmented.wav
+│   └── Example loudness-augmented audio
+│
+├── fabm2ag1_crop_augmented.wav
+│   └── Example cropped audio sample
+│
+└── Untitled.ipynb
+    └── Preliminary experiments and testing
+
+
 Implemented using SpeechBrain augmentation modules.
 
 ### 5. SpeechBrain-based Augmentations
