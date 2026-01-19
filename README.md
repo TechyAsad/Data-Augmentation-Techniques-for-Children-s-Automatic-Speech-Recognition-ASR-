@@ -2,7 +2,7 @@
 The project focuses on applying and evaluating audio data augmentation techniques to improve the robustness and generalization of Children’s Automatic Speech Recognition (ASR) systems.
 Children’s speech presents unique challenges such as high pitch variability, pronunciation inconsistency, and limited labeled data. Data augmentation is a key strategy to mitigate data scarcity and improve ASR performance in such scenarios.
 
-#Objectives
+##Objectives
 
 To explore time-domain and frequency-domain audio augmentation techniques for children’s speech.
 
