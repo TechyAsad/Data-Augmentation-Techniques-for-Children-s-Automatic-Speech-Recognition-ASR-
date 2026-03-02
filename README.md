@@ -5,7 +5,7 @@ Children’s speech presents unique challenges such as high pitch variability, p
 
 ## Dataset
 
-- Children’s speech audio samples (e.g., CMU Kids / ESPnet-based child ASR corpora).
+- Children’s speech audio samples ( CMU Kids & CSLU Kids).
 
 - Audio files are processed at their original sampling rates to avoid distortion.
 
